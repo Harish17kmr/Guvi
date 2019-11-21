@@ -1,0 +1,18 @@
+userdefined 
+inbuilt
+Sequence
+codereuseability
+stack using oops
+stack using procedural progamming
+access specifiers
+	1.public
+	2.private
+	3.protecteds
+attributes
+	1.class attributes
+	2.instant attributes
+programs: 1.reversing a number
+	  2.amstrong number
+	  3.pattern printing
+	  4.number sequence
+	  5.palindrome
